@@ -1,0 +1,6 @@
+faster-whisper
+sounddevice
+soxr
+numpy
+keyboard
+piper-tts
